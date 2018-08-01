@@ -18,11 +18,11 @@ function theBeatlesPlay(musicians, instrument) {
   return holder;
 }
  function iLoveTheBeatles(num) {
-  var truism = [];
+  var loveThem = [];
   do{
-    truism.push("I love the Beatles!")
+    loveThem.push("I love the Beatles!")
     num++;
   } while(num < 15);
   
-  return truism;
+  return loveThem;
 }
